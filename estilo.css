@@ -1,0 +1,16 @@
+body{
+    background: gainsboro;
+}
+.cabecera{
+    color: green;
+}
+#parrafo{
+    color: #46484c;
+}
+#boton{
+    background: #025157;
+    color: #fff;
+}
+form{
+    color: #8b8b8bcc;
+}
